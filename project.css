@@ -1,0 +1,113 @@
+*{
+    margin:0px;
+}
+.box-1{
+    border: 2px solid orange;
+    margin:50px;
+    height:100px;
+    text-align:center;
+    padding-top: 60px;
+    padding-left: 50px;
+    padding-bottom: 60px;;
+    background: linear-gradient(to right,orange, white, green);
+    border-radius: 30px;
+}
+
+.box-1 h1{
+    color:darkblue;
+}
+.box-1 p{
+    color:black;
+}
+.box-1 button{
+    background-color: orange;
+    margin-top: 10px;
+    padding: 3px;
+}
+.card{
+    height:160px;
+    border:2px solid black;
+    box-sizing: border-box;
+    width: 210px;
+    text-align: center;
+}
+.card h2{
+    font-size: 24px;
+    margin: 10px;
+
+}
+.card p{
+    font-size: 12px;
+    line-height: 1.5;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+}
+h3{
+    text-align:center;
+    font-size:15px;
+    margin-bottom:15px;
+    margin-top:40px;
+}
+.ball-1{
+    border:2px solid black;
+    width:200px;
+    background-color: orange;
+}
+.ball-2{
+    border:2px solid black;
+    width:200px;
+    background-color: rgb(255, 56, 56);
+
+}
+.container-1{
+    display:flex;
+    text-align:center;
+    justify-content: center;
+    gap:20px;
+    
+}
+.container-2{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    gap:20px;
+    
+}
+.box-2{
+    border:2px solid black;
+    width:200px;
+    background-color: rgb(243, 138, 138);
+    border-radius: 20px;
+}
+.box-3{
+    border:2px solid black;
+    width:200px;
+    background-color: silver;
+    border-radius: 20px;
+}
+.box-4{
+    border:2px solid black;
+    width:200px;
+    background-color: gold;
+}
+.can{
+    border:2px solid blue;
+    margin-left:200px;
+    margin-top: 40px;
+    margin-right: 200px;
+    text-align:center;
+    padding-top:30px;
+    height:100px;
+    justify-content: center;
+    padding-bottom: 10px;
+    background-color: rgba(184, 219, 231,0.5);
+    border-radius: 30px;
+}
+.can button{
+    background-color: rgb(95, 225, 95);
+    margin-top: 10px;
+}
+
